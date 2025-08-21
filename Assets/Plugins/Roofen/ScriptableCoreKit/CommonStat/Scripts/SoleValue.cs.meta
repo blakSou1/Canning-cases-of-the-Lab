@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9eebbc4d77f3301499cc3cb0938dbc00
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322020
+  packageName: Common Stat
+  packageVersion: 1.0
+  assetPath: Assets/Roofen/ScriptableCoreKit/CommonStat/Scripts/SoleValue.cs
+  uploadId: 760641

@@ -1,0 +1,5 @@
+Key,№,Visual,Rare,Base Damage,Price,The level to open,Max improvement level,A level is required to purchase
+Tools.Example.Sharpening,0,Заточка,Starting ,5,0,1,1,0
+Tools.Example.Knife,1,Нож,Rusty,10,150,10,2,10
+Tools.Example.Opener,2,Открывашка,Steel,50,750,30,3,30
+Tools.Example.AdvancedBottleOpener,3,Продвинутая открывашка,Gold,100,3000,40,3,50

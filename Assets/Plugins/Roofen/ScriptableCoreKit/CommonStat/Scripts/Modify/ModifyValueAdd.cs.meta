@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1fb48364786c7924e82e9712638aa252
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 322020
+  packageName: Common Stat
+  packageVersion: 1.0
+  assetPath: Assets/Roofen/ScriptableCoreKit/CommonStat/Scripts/Modify/ModifyValueAdd.cs
+  uploadId: 760641

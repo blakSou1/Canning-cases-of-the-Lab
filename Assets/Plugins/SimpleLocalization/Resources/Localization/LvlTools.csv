@@ -1,0 +1,5 @@
+Key,№,Visual,Max level,Damage per level,The price of improvement per level
+LvlTools.Example.Rusty,1,Ржавая,5,5,100 × уровень²
+LvlTools.Example.Steel,2,Сталь,5,10,250 × уровень²
+LvlTools.Example.Gold,3,Золото,5,20,500 × уровень²
+LvlTools.Example.Starting ,4,Золото,5,20,500 × уровень²

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63817d93022759543b57e795c78efe11, type: 3}
+  m_Name: LocalizationSettings
+  m_EditorClassIdentifier: 
+  TableId: 12c7WAkFW0z7UMuDYcDdkaOvFAuOoZbbuGBXLeqzhLp8
+  Sheets:
+  - Name: Tools
+    Id: 0
+    TextAsset: {fileID: 4900000, guid: 51a878d941599e944b9bf5353449cf88, type: 3}
+  - Name: LvlTools
+    Id: 579469082
+    TextAsset: {fileID: 4900000, guid: 2a0f4f107dc9ffe48addf34fa88607de, type: 3}
+  - Name: CannedFoodIsRare
+    Id: 733101546
+    TextAsset: {fileID: 4900000, guid: e0e26fdaea52f4447bcff28cd3a2ca3e, type: 3}
+  - Name: Lvl
+    Id: 1729199903
+    TextAsset: {fileID: 4900000, guid: 5c97d0cb32736d646acf397fa9c63e80, type: 3}
+  - Name: ListOfToys
+    Id: 893928529
+    TextAsset: {fileID: 4900000, guid: 4ed840fa8af2f244abdc81f67215fc6f, type: 3}
+  - Name: Util
+    Id: 1546913548
+    TextAsset: {fileID: 4900000, guid: a918422e59f40aa4c90bbb7ec09f28d7, type: 3}
+  SaveFolder: {fileID: 102900000, guid: c392831e85f928548b8494fefd912562, type: 3}

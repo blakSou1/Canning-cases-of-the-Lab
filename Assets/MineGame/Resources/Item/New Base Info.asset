@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c647863f313f014a9803394b40b1826, type: 3}
+  m_Name: New Base Info
+  m_EditorClassIdentifier: 
+  rub: Rub
+  rareTools: Rare
+  priceTools: Price
+  baseDamageTools: Base Damage
+  rareBanka: Level
+  priceBanka: Price
+  chanceABanka: Chance A
+  chanceBBanka: Chance B
+  chanceCBanka: Chance C
+  chance2XBanka: Chance x2 toys
+  hpBanka: Hp
+  rareToy: Rare
+  priceToy: Price
+  lvlKey: LvlTools.Example.
+  DamagePerLvl: Damage per level
+  MaxLvl: Max level

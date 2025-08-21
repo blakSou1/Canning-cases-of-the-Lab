@@ -1,0 +1,6 @@
+Key,№,Visual,Level,Chance A,Chance B,Chance C,Chance x2 toys,Price,A level is required to purchase,Hp
+Canned.Example.Usual,0,Белая,Обычный,95,5,0,0,50,0,50
+Canned.Example.Unusual,1,Зеленая,Необычный,70,30,0,5,200,10,100
+Canned.Example.Rare,2,Синяя,Редкий,45,50,5,7,500,20,200
+Canned.Example.Epic,3,Фиолетовая,Эпический,25,50,25,5,1500,30,500
+Canned.Example.Legendary,4,Золотая,Легендарный,0,50,45,3,5000,40,1000
